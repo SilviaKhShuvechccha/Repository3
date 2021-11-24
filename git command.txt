@@ -1,0 +1,11 @@
+1.create repository in github
+
+2.git clone (repository link)
+
+[add some change in folder]
+
+3.git add .
+
+4.git commit -m "commit message"
+
+5.git push origin main
